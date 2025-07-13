@@ -1,0 +1,51 @@
+Note:This is port rom oneplus 10 pro
+
+
+Firmware link:
+https://drive.google.com/file/d/1-6RSJUfo3sAsOB-qQTQVblhSA9XTDs4G/view
+
+
+• When you first set up when connecting to WI-FI, when you enter the password, click on the arrow to go to the WI-FI network settings, there select the Mac address of the phone, and that's it, the phone will immediately connect to the desired WI-FI.
+• The firmware is created for review only and is not optimized for everyday use. Read the spoiler "Additions" to know all the nuances.
+
+
+Additions
+Bugs :
+• DPI (It can change to unusable values)
+• Fingerprint
+• Brightness slider does not work
+• Face unlock
+• The top panel (Where the battery, notifications, etc. are shown) is shifted and oddly cut off
+• A black screen may appear during the first setup. If this happens, reboot the phone and before the black screen appears, you should have time to select a language. After selecting the language, there will be a black screen again, but it will go away after a while.
+• The initial wallpaper is black for some reason
+• The power button works with a delay
+• If there are any more bugs, write to me and I will add them.
+Add. Information :
+• Long loading (2-5 minutes)
+• No Google Play (G-Services are available, GP can be downloaded from AppMarket)
+• Almost no blur (generally throughout the system)
+• No parallel animations
+• The phone is quite hot during use
+• No built-in camera application
+• The memory is initially very full, and also fills up quite quickly during use
+• It is unlikely that version 2/16 will handle it, I advise you to install it on the version with 32/64GB memory
+
+Installation method
+
+I recommend using this TWRP:
+Attached filerecovery.img (27.28 MB)
+
+• Flash System Extender (Repartritioner_7GB)
+• Flash Zip firmware file
+• Flash Boot.img to boot partition
+• Flash kernel (4.19.272-mi8937+.zip)
+• Flash Magisk (if needed)
+• Flash Appender V4
+• Format Data via yes
+• Reboot to system
+
+This all files link:
+https://www.mediafire.com/folder/izjt0ca7ef4s8/COS15+R4X
+
+The firmware link
+https://drive.google.com/file/d/1-6RSJUfo3sAsOB-qQTQVblhSA9XTDs4G/view
